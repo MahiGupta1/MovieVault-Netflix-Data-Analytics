@@ -7,7 +7,7 @@ Browse, search and filter titles, add / edit / delete records, and view aggregat
 
 - Python 3.10+
 - MongoDB Community Server running locally (`mongodb://localhost:27017`)
-- The dataset (below)
+- The dataset 
 
 ## 2. Get the dataset
 
